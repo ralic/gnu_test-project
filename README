@@ -8,6 +8,8 @@ See savannah test automation project at:
     https://lists.gnu.org/archive/html/savannah-hackers-public/2017-01/msg00030.html
     http://git.savannah.gnu.org/cgit/administration/savannah-tests.git
 
+Savannah git information: https://savannah.gnu.org/maintenance/UsingGit/
+
 This git repository can be accessed in the following ways:
 
     rsync://git.sv.gnu.org/git/test-project
