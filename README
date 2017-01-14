@@ -1,0 +1,24 @@
+This is a Savannah Test Git Project.
+
+See details at: https://savannah.nongnu.org/projects/test-project/
+
+Email savannah-hackers-public@gnu.org for details.
+
+See savannah test automation project at:
+    https://lists.gnu.org/archive/html/savannah-hackers-public/2017-01/msg00030.html
+    http://git.savannah.gnu.org/cgit/administration/savannah-tests.git
+
+This git repository can be accessed in the following ways:
+
+    rsync://git.sv.gnu.org/git/test-project
+    git://git.savannnah.gnu.org/test-project
+    http://git.savannah.gnu.org/cgit/test-project.git
+    http://git.savannah.gnu.org/gitweb/?p=test-project.git
+    http://git.savannah.gnu.org/r/test-project.git
+    ssh://[USER]@git.savannah.gnu.org/srv/git/test-project.git
+
+Not yet but soon:
+
+    https://git.savannah.gnu.org/cgit/test-project.git
+    https://git.savannah.gnu.org/gitweb/?p=test-project.git
+    https://git.savannah.gnu.org/r/test-project.git
